@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhisumat Kundu
+- 👋 Hi, I’m @AbhisumatK
 - 👀 I’m interested in AI&ML 
 - 🌱 I’m currently pursuing CSE
 - 💞️ I’m looking to collaborate on multidisciplinary projects
