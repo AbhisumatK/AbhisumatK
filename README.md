@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Game Dev on Unity Engine**
 
-- 💬 Ask me about **Python, Data Analysis**
+- 💬 Ask me about **Python, Data Science**
 
 - 📫 How to reach me **kunduabhisumat@gmail.com**
 
