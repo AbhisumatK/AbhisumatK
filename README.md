@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisumatk&label=Profile%20views&color=0e75b6&style=flat" alt="abhisumatk" /> </p>
 
-- 🌱 I’m currently learning **Game Dev using Unity**
+- 🌱 I’m currently learning **LLM Fine-tuning**
 
 - 💬 Ask me about **Python, Data Science**
 
