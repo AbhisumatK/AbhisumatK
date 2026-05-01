@@ -1,6 +1,6 @@
 # Hi, I'm Abhisumat 👋
 
-📍 India ↔ Engineering Student | 🤖 Machine Learning & NLP Enthusiast | 🚀 AI Builder | 📚 Research-Oriented Developer
+📍 Kolkata ↔ Engineering Student | 🤖 Machine Learning & NLP Enthusiast | 🚀 AI Builder | 📚 Research-Oriented Developer
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
