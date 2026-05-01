@@ -14,7 +14,7 @@
 
 > Building intelligent systems through machine learning, NLP, and data-driven experimentation. Focused on solving practical problems through AI while exploring research and entrepreneurship.
 
-🔍 [Whatsite](https://whatsite.vercel.app/) (closed-source) – WhatsApp Analytics tool.
+🔍 [numeth](https://github.com/AbhisumatK/numeth-Numerical-Methods-Library) – Python package foreasily implementing numerical methods algorithms.
 
 ---
 
@@ -25,7 +25,7 @@
 - 🧩 [Upcode](https://github.com/AbhisumatK/Legacy-Code-Parser) – Parsing and analyzing structured legacy systems.
 - 🎮 [Dragon Warrior](https://github.com/AbhisumatK/Dragon-Warrior---Unity-2D-Game) – Unity 2D Platformer Game. My first Unity game :)
 - 🧠 [PDF RAG Chatbot](https://github.com/AbhisumatK/PDF-RAG-ChatBot-using-local-embeddings) – RAG Application to speak to your PDFs like any AI Assistant.
-
+- 🧠 [numeth](https://github.com/AbhisumatK/numeth-Numerical-Methods-Library) – Python package for (very) easily implementing numerical methods algorithms.
 ---
 
 # Connect
