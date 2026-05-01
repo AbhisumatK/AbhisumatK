@@ -47,7 +47,6 @@
 # Recognition
 
 - 🏆 **Best Use of Streamlit Award** for building [Ez-Viz](https://github.com/AbhisumatK/Diversion-Hackathon) in MLH Diversion 36-hour hackathon.
-- 🌍 **International Internship Experience** at OGames Studio, a Ghana-based game development studio.
 - 🏊 District-level swimmer with 10 years of experience.
 
 ---
