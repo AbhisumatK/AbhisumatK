@@ -28,6 +28,14 @@
 - 🧠 [numeth](https://github.com/AbhisumatK/numeth-Numerical-Methods-Library) – Python package for (very) easily implementing numerical methods algorithms.
 ---
 
+# Open-Source Contributions
+
+- https://github.com/CodeGraphContext/CodeGraphContext/pull/593
+- https://github.com/abbudjoe/TribalMemory/pull/98
+- https://github.com/marcogenna/epub2audiobook/pull/7
+
+---
+
 # Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhisumat%20Kundu-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhisumat-kundu/)
