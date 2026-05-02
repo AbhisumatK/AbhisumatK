@@ -14,7 +14,7 @@
 
 > Building intelligent systems through machine learning, NLP, and data-driven experimentation. Focused on solving practical problems through AI while exploring research and entrepreneurship.
 
-🔍 [numeth](https://github.com/AbhisumatK/numeth-Numerical-Methods-Library) – Python package foreasily implementing numerical methods algorithms.
+🔍 [numeth](https://github.com/AbhisumatK/numeth-Numerical-Methods-Library) – Python package for easily implementing numerical methods algorithms.
 
 ---
 
