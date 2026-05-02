@@ -22,7 +22,7 @@
 
 - 📈 [Ez-Viz](https://github.com/AbhisumatK/Diversion-Hackathon) – ML automation tool made during MLH Diversion 36-hour hackathon. Won the 'Best Use of Streamlit' Award.
 - 📊 [Whatsite](https://whatsite.vercel.app/) – WhatsApp Analytics tool.
-- 🧩 [Upcode](https://github.com/AbhisumatK/Legacy-Code-Parser) – Parsing and analyzing structured legacy systems.
+- 🧩 [Upcode](https://github.com/AbhisumatK/Legacy-Code-Parser) – AI tool for parsing and converting structured legacy code to modern programming languages.
 - 🎮 [Dragon Warrior](https://github.com/AbhisumatK/Dragon-Warrior---Unity-2D-Game) – Unity 2D Platformer Game. My first Unity game :)
 - 🧠 [PDF RAG Chatbot](https://github.com/AbhisumatK/PDF-RAG-ChatBot-using-local-embeddings) – RAG Application to speak to your PDFs like any AI Assistant.
 - 🧠 [numeth](https://github.com/AbhisumatK/numeth-Numerical-Methods-Library) – Python package for (very) easily implementing numerical methods algorithms.
