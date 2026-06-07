@@ -63,7 +63,7 @@
 
 # Philosophy
 
-> “Execution beats perfection any day. Chase sspeed, not perfection.”
+> “Execution beats perfection any day. Chase speed, not perfection.”
 
 ---
 
