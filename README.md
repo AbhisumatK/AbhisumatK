@@ -39,7 +39,6 @@
 # Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhisumat%20Kundu-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhisumat-kundu/)
-[![Threads](https://img.shields.io/badge/Threads-@abhisumatkundu-black?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@abhisumatkundu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhisumat-portfolio.vercel.app/)
 
 ---
