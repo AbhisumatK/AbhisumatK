@@ -24,6 +24,7 @@
 - 🛡️ [Epstein Files RAG](https://github.com/AbhisumatK/Epstein_Files_RAG) – Open Source RAG on the Epstein Files.
 - 🎮 [Dragon Warrior](https://github.com/AbhisumatK/Dragon-Warrior---Unity-2D-Game) – Unity 2D Platformer Game. My first Unity game :)
 - 🧠 [PDF RAG Chatbot](https://github.com/AbhisumatK/PDF-RAG-ChatBot-using-local-embeddings) – RAG Application to speak to your PDFs like any AI Assistant.
+- 🧠 [The Voyager](https://ripjawz.itch.io/the-voyager) – Unity 2D web game made in 7 days for The Very Serious Juniper Dev Game Jam 2026.
 - 🧮 [numeth](https://github.com/AbhisumatK/numeth-Numerical-Methods-Library) – Python package for (very) easily implementing numerical methods algorithms.
 
 ---
